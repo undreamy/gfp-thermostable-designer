@@ -32,10 +32,8 @@ gfp-thermostable-designer/
 ├── design.py                        ← 基于 5 篇参考文献的设计管线主脚本
 ├── requirements.txt                  ← Python 依赖
 ├── submission.csv                   ← 提交序列（6 条）
-├── design_log.csv                   ← 每条序列的设计日志
-└── data/
-    ├── AAseqs of 5 GFP proteins_20260511.txt  ← 5 条参考 GFP 序列
-    └── Exclusion_List.csv                     ← 官方排除列表（135,414 条）
+└── design_log.csv                   ← 每条序列的设计日志
+
 ```
 
 ## 🚀 快速开始
@@ -102,8 +100,7 @@ python design.py
 
 详细的设计思路、Agent 逻辑树、关键执行日志与文献引用请查看：
 
-- [DESIGN_DOCUMENT_FINAL.html](DESIGN_DOCUMENT_FINAL.html)（推荐，可交互查看）
-- [DESIGN_DOCUMENT_FINAL.pdf](DESIGN_DOCUMENT_FINAL.pdf)（PDF 版本，用于评审展示）
+- [DESIGN_DOCUMENT_FINAL.html](DESIGN_DOCUMENT_FINAL.html)
 
 ## 📄 许可证
 
