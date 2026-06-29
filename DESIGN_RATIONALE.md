@@ -109,7 +109,7 @@ python design.py
 ├── design.py                主设计脚本
 ├── submission.csv           最终提交的 6 条序列
 ├── design_log.csv           设计日志（突变、打分、嵌入范数）
-└── data/                    官方数据（请自行放置）
+└── data/                    官方数据
     ├── AAseqs of 5 GFP proteins_20260511.txt
     └── Exclusion_List.csv
 ```
@@ -120,6 +120,6 @@ python design.py
 
 **License**: MIT
 
-**Team**: BioSyn-GP-Team
+**Team**: undreamy
 
 **Date**: 2026-06-29
